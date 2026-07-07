@@ -25,7 +25,8 @@
 					{
 						"activity": "ExecuteIncremental",
 						"dependencyConditions": [
-							"Succeeded"
+							"Succeeded",
+							"Failed"
 						]
 					}
 				],
