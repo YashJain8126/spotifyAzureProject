@@ -123,9 +123,11 @@
 				},
 				"userProperties": [
 					{
-						"name": ""
+						"name": "ssdadad"
 					},
-					null
+					{
+						"name": "adadadad"
+					}
 				],
 				"typeProperties": {
 					"variableName": "current",
