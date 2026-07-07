@@ -121,14 +121,7 @@
 					"secureOutput": false,
 					"secureInput": false
 				},
-				"userProperties": [
-					{
-						"name": "ssdadad"
-					},
-					{
-						"name": "adadadad"
-					}
-				],
+				"userProperties": [],
 				"typeProperties": {
 					"variableName": "current",
 					"value": {
